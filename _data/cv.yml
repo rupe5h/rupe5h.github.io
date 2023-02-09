@@ -45,6 +45,7 @@
         - Rednering of the car assembly and sub-systems using PhotoView 360. The final renders were used for design presentations and social media.
         - Participated in Formula Student India 2016 held in Buddh International Circuit, Greater Noida.
 
+- tile: Skills
   type: nested_list
   contents:
     - title: Programming
