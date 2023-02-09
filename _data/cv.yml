@@ -158,78 +158,47 @@
         - Coursera
     - year: 2020
       items:
-        - <a href=https://nptel.ac.in/noc/E\_Certificate/NPTEL20CS23S1PC674831>Computer Networks and Internet Protocol</a>
+        - <a href=https://nptel.ac.in/noc/E_Certificate/NPTEL20CS23S1PC674831>Computer Networks and Internet Protocol</a>
         - IIT, Kharagpur
         - NPTEL
     - year: 2020
       items:
-        - <a href=https://nptel.ac.in/noc/E\_Certificate/NPTEL20CS41S1PC145153>GPU Architectures and Programming</a>
+        - <a href=https://nptel.ac.in/noc/E_Certificate/NPTEL20CS41S1PC145153>GPU Architectures and Programming</a>
         - IIT, Kharagpur
         - NPTEL
     - year: 2020
       items:
-        - <a href=https://nptel.ac.in/noc/E\_Certificate/NPTEL20CS04S1PC828662>Operating System</a>
+        - <a href=https://nptel.ac.in/noc/E_Certificate/NPTEL20CS04S1PC828662>Operating System</a>
         - IIT, Madras
         - NPTEL
     - year: 2014
       items:
-        - <a href=https://verify.edx.org/cert/1383af4106d643269df6f47c7bee5ef4>6.00.2x: Introduction to Computational Thinking and Data Science</a>
+        - <a href=https://verify.edx.org/cert/1383af4106d643269df6f47c7bee5ef4> 6.00.2x Introduction to Computational Thinking and Data Science</a>
         - MITx
         - edx
     - year: 2014
       items:
-        - <a href=https://verify.edx.org/cert/322421446f9945919114e2fc7a6dd2f5>6.00.1x: Introduction to Computer Science and Programming Using Python</a>
+        - <a href=https://verify.edx.org/cert/322421446f9945919114e2fc7a6dd2f5> 6.00.1x Introduction to Computer Science and Programming Using Python</a>
         - MITx
         - edx
     - year: 2014
       items:
-        - <a href=https://verify.edx.org/cert/55f3a9588ed64be0a0db2b5b24e361b9>9.01x: Effective Thinking Through Mathematics</a>
+        - <a href=https://verify.edx.org/cert/55f3a9588ed64be0a0db2b5b24e361b9> 9.01x Effective Thinking Through Mathematics</a>
         - The University of Texas at Austin
         - edx
     - year: 2014
       items:
-        - <a href=https://verify.edx.org/cert/1c7937831a324216b452df6ed1a75812>ELEC301x: Discrete Time Signals and Systems</a>
+        - <a href=https://verify.edx.org/cert/1c7937831a324216b452df6ed1a75812>ELEC301x Discrete Time Signals and Systems</a>
         - Rice University
         - edx
     - year: 2014
       items:
-        - <a href=https://verify.edx.org/cert/2858606629834512aa6ea931db492b0c>Louv1.01x: Paradigms of Computer Programming</a>
+        - <a href=https://verify.edx.org/cert/2858606629834512aa6ea931db492b0c>Louv1.01x Paradigms of Computer Programming</a>
         - Université catholique de Louvain
         - edx
-#     - year: 2022
-#       items:
-#         - <a href=https://coursera.org/verify/specialization/WZNGGJLQ3H8A>Everyday Excel</a>
-#         - 3 Courses by University of Colorado Boulder
-#         - Coursera
-#     - year: 2022
-#       items: 
-#         - <a href=https://coursera.org/verify/specialization/ANEKQKPC3N5F>Genomic Data Science</a> 
-#         - 6 Courses by John Hopkins University
-#         - Coursera
-#     - year: 2022
-#       items: 
-#         - <a href=https://coursera.org/verify/specialization/G62Y3CU498MK>C Programming with Linux</a> 
-#         - 7 Courses by Dartmouth College and Institut Polytechnique de Paris
-#         - Coursera
-# #
-#
-#         - Description 2.
-    # - title:
-#       items:
-#         - Description 1.
-#         - Description 2.
-# - title: Skills
-#   type: nested_list
-#   contents:
-#     - title: Topic 1.
-#       items: 
-#         - Description 1.
-#         - Description 2.
-#     - title: Topic 2.
-#       items:
-#         - Description 1.
-#         - Description 2.
+
+
 # - title: Other Interests
 #   type: list
 #   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+#     - <u>Hobbies:</u> Cycling, Cooking, Photography
