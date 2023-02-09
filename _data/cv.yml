@@ -45,19 +45,6 @@
         - Rednering of the car assembly and sub-systems using PhotoView 360. The final renders were used for design presentations and social media.
         - Participated in Formula Student India 2016 held in Buddh International Circuit, Greater Noida.
 
-# - title: GATE Qualifications
-#   type: time_table
-#   contents:
-#     - year: 
-#       items: 
-#         - 
-#         - 
-#     - year: 
-#       items: 
-#         - 
-#         -
-
-- title: Skills
   type: nested_list
   contents:
     - title: Programming
@@ -72,6 +59,57 @@
     - title: Other Tools
       items:
         - Git, LaTeX, Shell, Linux, SQL
+
+- title: Key Projects
+  type: time_table
+  contents:
+    - title: A new procedure to evaluate material stress-strain curve from ball indentation data
+      institution: Dr. Kamal Sharma, Dr. M. K. Samal | BARC, Mumbai
+      year: Aug 2018 - Jul 2019
+      description:
+        - Masters Thesis
+        - Performed literature review on Ball Indentation Method. A method used for evaluating material stress strain properties. Identified gap area that the method in literatire depends on emperical material data.
+        - Developed a new procedure based on Finite Element Analysis of Ball Indentation test considering Multi-axial state of stress present below the ball indentation area.
+        - Designed and Fabricated the adapters to test the new method at room temperature and elevated temperature.
+        - Tested new method sucessfully on SS304L and three other materials at room temperature with the error less than 5\%. Experiments at elevated temperatures were also carried out for SS304L upto 550\textdegreeC and for Inconel 690 upto 800\textdegreeC.
+        - Effect of different Ball Diameter was studied using FE analysis.
+    
+    - title: Transient Thermomechanical FE analysis of Induction melter.
+      institution: Dr. M K Samal | BARC, Mumbai
+      year: May. 2018 - Jul. 2018
+      description:
+        - Training project
+        - Created a model and structured mesh of Induction Melter used for vitrification of nuclear waste.
+        - Applied the transient loading conditions on model and identified the regions of high stress.
+        - Suggested the modification in design based on results obtained.
+    
+    - title: Development of FE Solver for 2D problems.
+      institution: Dr. Punit Arora | BARC, Mumbai
+      year: Feb. 2018
+      description:
+        - Course project
+        - Developed a linear FE solver for quad Elements using Numpy.
+        - Visualised the results in Matplotlib.
+        - Tested the solver for some benchmark problmes.
+    
+    - title: Cell formation problem in Cellular Manufacturing.
+      institution: Dr. Vaibhav Narwane | KJSCE, Mumbai
+      year: Aug. 2016 - May 2017
+      description:
+        - Final year BE Project
+        - Performed a through literature review on cell formation method in cellular Manufacturing.
+        - Cell formation is NP-Hard optimization problem.
+        - In this project several methods to approximate the solution to cell formulation problem were implimented using python and their solutions were compared.
+    
+    
+    - title: Calculation of efficiency of solar cooker by experiments.
+      institution: Prof. Kashinath Patil | KJSCE, Mumbai
+      year: June 2015 - Aug. 2015
+      description:
+        - Summer Intern project
+        - Created experimental setup to evaluate the efficiency of Solar cooker.
+        - Experiments were carried out in June and July under different climate conditions.
+        - Optical and Thermal efficiency of solar cooker was obtained using results of experiments carried out.
 
 - title: Graduate Courses
   type: list
@@ -198,7 +236,7 @@
         - edx
 
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Cycling, Cooking, Photography
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Cycling, Cooking, Photography
