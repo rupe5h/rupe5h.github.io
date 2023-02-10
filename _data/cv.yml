@@ -6,15 +6,6 @@
     - name: Languages
       value: English, Gujarati, Hindi, Marathi
 
-- title: Education
-  type: time_table
-  contents:
-    - title: M. Tech. in Mechanical Engineering
-      institution: Homi Bhabha National Institute, Mumbai
-      year: Aug 2019
-    - title: B.E. in Mechanical Engineering
-      institution: K. J. Somaiya College of Engineering, Mumbai
-      year: Jun 2017
 
 - title: Experience
   type: time_table
@@ -28,7 +19,7 @@
         - Engineer-in-charge for execution of piping work.
     
     - title: Data Analyst
-      institution: vPhrase 
+      institution: vPhrase Analytics Solutions Pvt. Ltd.
       year: Jun 2017 - Jul 2017
       description:
         - Analysed MIS data of industries like FMCG and BFSI to generate dashboards and reports as per business requirements.
@@ -44,6 +35,16 @@
         - Mathematical modeling of suspension system of formula student car using MATLAB SimScape.
         - Rednering of the car assembly and sub-systems using PhotoView 360. The final renders were used for design presentations and social media.
         - Participated in Formula Student India 2016 held in Buddh International Circuit, Greater Noida.
+
+- title: Education
+  type: time_table
+  contents:
+    - title: M. Tech. in Mechanical Engineering
+      institution: Homi Bhabha National Institute, Mumbai
+      year: Aug 2019
+    - title: B.E. in Mechanical Engineering
+      institution: K. J. Somaiya College of Engineering, Mumbai
+      year: Jun 2017
 
 - tile: Skills
   type: nested_list
