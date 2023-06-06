@@ -19,9 +19,9 @@ Hello there, Thanks for stopping by!👋
 
 ## About
 
-I Joined [Bhabha Atomic Research Centre](https://www.barc.gov.in/) in 2017 as Trainee Scientific Officer. I completed one year Orientation Course for Engineering graduates and Science postgraduates(OCES) sucessfully. This course covered courses related to Nuclear Engineering and advanced courses in Mechanical Engineering.
+I joined [Bhabha Atomic Research Centre](https://www.barc.gov.in/) in 2017 as Trainee Scientific Officer. I completed one year Orientation Course for Engineering graduates and Science postgraduates(OCES) sucessfully. This course covered courses related to Nuclear Engineering and advanced courses in Mechanical Engineering.
 
-After finishing The training program I worked on my Master's thesis under guidance of [Prof. M. K. Samal](https://scholar.google.com/citations?user=QRgDjXYAAAAJ) and [Dr. Kamal Sharma](https://www.researchgate.net/profile/Kamal-Sharma-5). I Developed a novel method to evaluate stress-strain properties of the material using the ball indentation data. After Finishing my Master's Thesis in 2019, I'm working on design and construction of Nuclear Reprocessing Facility at BARC, Tarapur.
+After finishing the training program I worked on my Master's thesis under guidance of [Prof. M. K. Samal](https://scholar.google.com/citations?user=QRgDjXYAAAAJ) and [Dr. Kamal Sharma](https://www.researchgate.net/profile/Kamal-Sharma-5). I Developed a novel method to evaluate stress-strain properties of the material using the ball indentation data. After Finishing my Master's Thesis in 2019, I'm working on design and construction of Nuclear Reprocessing Facility at BARC, Tarapur.
 
 I have qualified national-level competitive exam [GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) in Computer Science(2021) and  Mechanical Engineering(2017).
 
